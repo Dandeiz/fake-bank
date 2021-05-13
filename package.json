@@ -1,0 +1,13 @@
+{
+  "name": "mybank",
+  "version": "1.0.0",
+  "description": "Projeto banco ficticio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo",
+  "license": "ISC",
+  "type": "module"
+
+}
