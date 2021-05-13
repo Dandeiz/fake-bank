@@ -1,4 +1,4 @@
-# fake-bank
+# fictional-bank
 Iniciando estudo de JS orientado a objetos. 
 
 Um simples sistema de bancos criado inteiramente em Javascript.
